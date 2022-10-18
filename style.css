@@ -265,3 +265,14 @@ h1{
 .my-logo{
     width: 40px;
 }
+
+@media(max-width:600px){
+    .input-group{
+        margin-top: 80px;
+    }
+    .flag{
+        position: relative;
+        top: -13px;
+        right: -110px;
+    }
+}
