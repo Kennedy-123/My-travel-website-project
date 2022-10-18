@@ -52,3 +52,9 @@ input[type=text]{
     background: linear-gradient(lightblue,green);
     box-shadow: -2px 2px 2px black;
 }
+
+@media(max-width:600px){
+    .login{
+        margin-top: 150px;
+    }
+}
