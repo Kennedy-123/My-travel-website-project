@@ -275,4 +275,7 @@ h1{
         top: -13px;
         right: -110px;
     }
+    .input-group{
+        width: 320px !important;
+    }
 }
